@@ -1,0 +1,38 @@
+.btn-up{
+    margin-left: 41%;
+    padding: 7px 19px;
+}
+.btn-down{
+    margin-left: 41%;
+    padding: 7px 19px;
+}
+.btn-prev{
+    margin-left: 39%;
+    padding: 7px 19px;
+}
+.btn-next{
+    margin-right: 45%;
+    padding: 7px 19px;
+
+}
+.all-click{
+    margin-top: 5%;
+}
+.circle{
+    width: 7%;
+    background-color: red;
+    height:7vh;
+    border-radius: 50%;
+}
+.bgcolor{
+    background-color: black;
+    width: 50%;
+    height: 50vh;
+    margin-left: 25%;
+    margin-top: -5%;  
+    /* margine menfi vermek duzgun deyil,bir div yaradim icinde 2 eded col-4 ve col 8 yaradib birine inputlari digerine divleri yerlesdirseydim olacaqdi amma heqiqeten vaxtim az oldu deye ede bilmedim */
+}
+.all-inputs{
+    width: 13%;
+
+}
